@@ -1,0 +1,6 @@
+minisom
+scikit-learn
+pandas
+numpy
+matplotlib
+jupyter
